@@ -1,0 +1,46 @@
+{
+  "name": "CORA",
+  "version": "1.0.0",
+  "angular-cli": {},
+  "scripts": {
+    "start": "ng serve",
+    "lint": "tslint \"src/**/*.ts\""
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/common": "~2.4.0",
+    "@angular/compiler": "~2.4.0",
+    "@angular/core": "~2.4.0",
+    "@angular/forms": "~2.4.0",
+    "@angular/platform-browser": "~2.4.0",
+    "@angular/platform-browser-dynamic": "~2.4.0",
+    "@angular/router": "~3.4.0",
+    "@angular/upgrade": "~2.4.0",
+    "angular": "~1.5.8",
+    "angular-animate": "~1.5.8",
+    "angular-route": "~1.5.8",
+    "angular-sanitize": "~1.5.8",
+    "angular-touch": "~1.5.8",
+    "angular-ui-bootstrap": "^2.1.3",
+    "angular-ui-layout": "^1.4.2",
+    "bootstrap-sass": "^3.3.7",
+    "core-js": "^2.4.1",
+    "ng2-bootstrap": "1.1.16-10",
+    "rxjs": "5.0.1",
+    "ts-helpers": "^1.1.1",
+    "zone.js": "^0.7.2"
+  },
+  "devDependencies": {
+    "@types/angular-route": "^1.3.2",
+    "@types/angular-sanitize": "^1.3.3",
+    "@types/angular-ui-bootstrap": "^0.13.35",
+    "@types/angular-ui-router": "^1.1.33",
+    "@types/jasmine": "^2.2.30",
+    "@types/node": "^6.0.42",
+    "angular-cli": "1.0.0-beta.18",
+    "codelyzer": "2.0.0-beta.4",
+    "ts-node": "1.2.1",
+    "tslint": "4.0.0",
+    "typescript": "~2.0.3"
+  }
+}
